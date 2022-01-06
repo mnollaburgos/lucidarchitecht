@@ -1,0 +1,21 @@
+{
+  "name": "lucidarchitecht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@imtbl/imx-sdk": "^1.3.18",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/mnollaburgos/lucidarchitecht.git",
+  "author": "Miguel Nolla <nolla.carlos@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnollaburgos/lucidarchitecht/issues"
+  },
+  "homepage": "https://github.com/mnollaburgos/lucidarchitecht#readme"
+}
